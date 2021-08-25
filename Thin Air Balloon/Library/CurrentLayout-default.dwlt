@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
-    width: 1920
-    height: 1005
+    x: 1920
+    y: 42.666668
+    width: 2560
+    height: 1366.6667
   m_ShowMode: 4
-  m_Title: GitHub
+  m_Title: Project
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -43,12 +43,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1920
-    height: 955
-  m_MinSize: {x: 504, y: 342}
-  m_MaxSize: {x: 12004, y: 8042}
+    width: 2560
+    height: 1316.6667
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 194
+  controlID: 421
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -59,23 +59,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Window
+  m_Name: InspectorWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1466
+    x: 1955.3334
     y: 0
-    width: 454
-    height: 955
-  m_MinSize: {x: 101, y: 121}
+    width: 604.6666
+    height: 1316.6667
+  m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 12}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
   - {fileID: 12}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,10 +93,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 363
-    height: 562
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+    width: 483.33334
+    height: 775.3333
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -112,23 +112,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 562
-    width: 1466
-    height: 393
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 18}
+    y: 775.3333
+    width: 1955.3334
+    height: 541.33344
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
   - {fileID: 18}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,9 +149,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 1005
-  m_MinSize: {x: 875, y: 300}
+    width: 2560
+    height: 1366.6667
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -174,11 +174,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
+    width: 2560
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LoadedToolbars: []
+  m_LoadedToolbars:
+  - {fileID: 19}
   m_MainToolbar: {fileID: 19}
   m_LastLoadedLayoutName: 
 --- !u!114 &8
@@ -197,8 +198,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 985
-    width: 1920
+    y: 1346.6667
+    width: 2560
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -221,12 +222,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1466
-    height: 955
-  m_MinSize: {x: 403, y: 342}
-  m_MaxSize: {x: 8003, y: 8042}
+    width: 1955.3334
+    height: 1316.6667
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 195
+  controlID: 91
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,12 +247,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1466
-    height: 562
+    width: 1955.3334
+    height: 775.3333
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 196
+  controlID: 92
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,12 +268,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 363
+    x: 483.33334
     y: 0
-    width: 1103
-    height: 562
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 1472
+    height: 775.3333
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -299,18 +300,18 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1466
-    y: 73
-    width: 453
-    height: 934
+    x: 3875.3335
+    y: 72.66667
+    width: 603.6666
+    height: 1295.6667
   m_ViewDataDictionary: {fileID: 0}
-  progressMessageClearTime: -1
+  progressMessageClearTime: 307.853679
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 0
+  currentStatusEntriesHasUpdate: 1
+  repositoryProgressHasUpdate: 1
   appManagerProgressHasUpdate: 0
   changeTab: 3
   activeTab: 3
@@ -484,7 +485,7 @@ MonoBehaviour:
       tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
+    currentStatusEntriesHasUpdate: 1
     currentLocksHasUpdate: 0
     commitBody: crossing my fingers
     commitMessage: eeeeee
@@ -497,16 +498,43 @@ MonoBehaviour:
       folders:
         keys:
         - Thin Air Balloon
+        - Thin Air Balloon\Assets
         - Thin Air Balloon\Library
         - Thin Air Balloon\Library\gfu
         - Thin Air Balloon\Library\gfu\cache
-        - Thin Air Balloon\Library\PackageManager
+        - Thin Air Balloon\Library\ShaderCache
+        - Thin Air Balloon\Library\ShaderCache\1
+        - Thin Air Balloon\Library\ShaderCache\2
+        - Thin Air Balloon\Library\ShaderCache\d
+        - Thin Air Balloon\Library\ShaderCache\e
+        - Thin Air Balloon\Library\ShaderCache\f
+        - Thin Air Balloon\Library\StateCache
+        - Thin Air Balloon\Library\StateCache\MainStageHierarchy
+        - Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d
         - Thin Air Balloon\Logs
         - Thin Air Balloon\Temp
         values:
         - path: Thin Air Balloon
           label: Thin Air Balloon
           level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Assets
+          label: Assets
+          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -576,9 +604,153 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Thin Air Balloon\Library\PackageManager
-          label: PackageManager
+        - path: Thin Air Balloon\Library\ShaderCache
+          label: ShaderCache
           level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\ShaderCache\1
+          label: 1
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\ShaderCache\2
+          label: 2
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\ShaderCache\d
+          label: d
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\ShaderCache\e
+          label: e
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\ShaderCache\f
+          label: f
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\StateCache
+          label: StateCache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy
+          label: MainStageHierarchy
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d
+          label: 4d
+          level: 4
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -676,6 +848,96 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Thin Air Balloon\Assets
+        label: Assets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Assets\Materials.meta
+        label: Materials.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Assets\Materials.meta
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials.meta
+          projectPath: Assets\Materials.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Assets\Models.meta
+        label: Models.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Assets\Models.meta
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Models.meta
+          projectPath: Assets\Models.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Assets\Scripts.meta
+        label: Scripts.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Assets\Scripts.meta
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scripts.meta
+          projectPath: Assets\Scripts.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Assets\Textures.meta
+        label: Textures.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Assets\Textures.meta
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures.meta
+          projectPath: Assets\Textures.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Thin Air Balloon\Library
         label: Library
         level: 1
@@ -802,24 +1064,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Thin Air Balloon\Library\gfu\cache\gitlog.yaml
-        label: gitlog.yaml
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Thin Air Balloon\Library\gfu\cache\gitlog.yaml
-          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gitlog.yaml
-          projectPath: Library\gfu\cache\gitlog.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Thin Air Balloon\Library\gfu\cache\gitstatusentries.yaml
         label: gitstatusentries.yaml
         level: 4
@@ -856,24 +1100,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Thin Air Balloon\Library\gfu\cache\gituser.yaml
-        label: gituser.yaml
-        level: 4
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Thin Air Balloon\Library\gfu\cache\gituser.yaml
-          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gituser.yaml
-          projectPath: Library\gfu\cache\gituser.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Thin Air Balloon\Library\gfu\cache\repoinfo.yaml
         label: repoinfo.yaml
         level: 4
@@ -892,8 +1118,26 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Thin Air Balloon\Library\PackageManager
-        label: PackageManager
+      - path: Thin Air Balloon\Library\SceneVisibilityState.asset
+        label: SceneVisibilityState.asset
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\SceneVisibilityState.asset
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SceneVisibilityState.asset
+          projectPath: Library\SceneVisibilityState.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Thin Air Balloon\Library\ShaderCache
+        label: ShaderCache
         level: 2
         isFolder: 1
         isContainer: 0
@@ -910,8 +1154,170 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Thin Air Balloon\Library\PackageManager\ProjectCache
-        label: ProjectCache
+      - path: Thin Air Balloon\Library\ShaderCache\1
+        label: 1
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+        label: 111a45af78e5002db525497ea3fc6e71.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+          projectPath: Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+        label: 1325b180c79bb778cc111a3cca33da9e.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+          projectPath: Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Library\ShaderCache\2
+        label: 2
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+        label: 26070892e7b48c6ee04221e4b769faf5.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+          projectPath: Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Library\ShaderCache\d
+        label: d
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+        label: d29bcfb16464f4ffc132e880ef033b27.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+          projectPath: Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Library\ShaderCache\e
+        label: e
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+        label: e7a8c54b0a5111a678c4a460d3dee15e.bin
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+          projectPath: Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
+        label: EditorEncounteredVariants
         level: 3
         isFolder: 0
         isContainer: 0
@@ -922,15 +1328,33 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Thin Air Balloon\Library\PackageManager\ProjectCache
-          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache
-          projectPath: Library\PackageManager\ProjectCache
+          path: Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
+          projectPath: Library\ShaderCache\EditorEncounteredVariants
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Thin Air Balloon\Library\PackageManager\ProjectCache.md5
-        label: ProjectCache.md5
+      - path: Thin Air Balloon\Library\ShaderCache\f
+        label: f
         level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+        label: fa41ebb3f3166e154f0168f131f9bc74.bin
+        level: 4
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -940,12 +1364,12 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Thin Air Balloon\Library\PackageManager\ProjectCache.md5
-          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache.md5
-          projectPath: Library\PackageManager\ProjectCache.md5
+          path: Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+          projectPath: Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Thin Air Balloon\Library\SourceAssetDB
         label: SourceAssetDB
         level: 2
@@ -961,6 +1385,78 @@ MonoBehaviour:
           path: Thin Air Balloon\Library\SourceAssetDB
           fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SourceAssetDB
           projectPath: Library\SourceAssetDB
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Thin Air Balloon\Library\StateCache
+        label: StateCache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy
+        label: MainStageHierarchy
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d
+        label: 4d
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+        label: 4d2a36d9faf65734f0bbefb3ee623532.json
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+          projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -982,24 +1478,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Thin Air Balloon\Logs\AssetImportWorker0-prev.log
-        label: AssetImportWorker0-prev.log
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Thin Air Balloon\Logs\AssetImportWorker0-prev.log
-          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\AssetImportWorker0-prev.log
-          projectPath: Logs\AssetImportWorker0-prev.log
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
       - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe0.log
         label: shadercompiler-UnityShaderCompiler.exe0.log
         level: 2
@@ -1018,6 +1496,114 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+        label: shadercompiler-UnityShaderCompiler.exe1.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+        label: shadercompiler-UnityShaderCompiler.exe2.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+        label: shadercompiler-UnityShaderCompiler.exe3.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+        label: shadercompiler-UnityShaderCompiler.exe4.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+        label: shadercompiler-UnityShaderCompiler.exe5.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+        label: shadercompiler-UnityShaderCompiler.exe6.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+          fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+          projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Thin Air Balloon\Temp
         label: Temp
         level: 1
@@ -1092,6 +1678,30 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: Thin Air Balloon\Assets\Materials.meta
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Assets\Models.meta
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Assets\Scripts.meta
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Assets\Textures.meta
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures.meta
+      projectPath: Assets\Textures.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Thin Air Balloon\Library\ArtifactDB
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ArtifactDB
       projectPath: Library\ArtifactDB
@@ -1116,12 +1726,6 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Thin Air Balloon\Library\gfu\cache\gitlog.yaml
-      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gitlog.yaml
-      projectPath: Library\gfu\cache\gitlog.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
     - path: Thin Air Balloon\Library\gfu\cache\gitstatusentries.yaml
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gitstatusentries.yaml
       projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -1134,48 +1738,114 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Thin Air Balloon\Library\gfu\cache\gituser.yaml
-      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gituser.yaml
-      projectPath: Library\gfu\cache\gituser.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
     - path: Thin Air Balloon\Library\gfu\cache\repoinfo.yaml
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\repoinfo.yaml
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Thin Air Balloon\Library\PackageManager\ProjectCache
-      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache
-      projectPath: Library\PackageManager\ProjectCache
+    - path: Thin Air Balloon\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Thin Air Balloon\Library\PackageManager\ProjectCache.md5
-      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache.md5
-      projectPath: Library\PackageManager\ProjectCache.md5
+    - path: Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+      projectPath: Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+      projectPath: Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+      projectPath: Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+      projectPath: Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+      projectPath: Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
+    - path: Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+      projectPath: Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Thin Air Balloon\Library\SourceAssetDB
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SourceAssetDB
       projectPath: Library\SourceAssetDB
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Thin Air Balloon\Logs\AssetImportWorker0-prev.log
-      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\AssetImportWorker0-prev.log
-      projectPath: Logs\AssetImportWorker0-prev.log
+    - path: Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+      projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
       originalPath: 
       indexStatus: 0
-      workTreeStatus: 5
+      workTreeStatus: 3
     - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe0.log
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe0.log
       projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Thin Air Balloon\Temp\UnityLockfile
       fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\UnityLockfile
       projectPath: Temp\UnityLockfile
@@ -1188,15 +1858,15 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    changedFilesText: 16 changed files
+    changedFilesText: 30 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2021-08-25T10:41:35.998-04:00
+      updatedTimeString: 2021-08-25T16:29:57.927-04:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2021-08-25T10:42:06.293-04:00
+      updatedTimeString: 2021-08-25T16:53:18.335-04:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2021-08-25T10:41:37.381-04:00
+      updatedTimeString: 2021-08-25T16:29:58.117-04:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -1469,13 +2139,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2021-08-25T10:41:35.998-04:00
+    updatedTimeString: 2021-08-25T16:29:57.927-04:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2021-08-25T16:29:58.324-04:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2021-08-25T10:42:06.293-04:00
+    updatedTimeString: 2021-08-25T16:53:18.335-04:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -1493,10 +2163,10 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0
-  repositoryProgressMessage: 
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
+  repositoryProgressValue: 1
+  repositoryProgressMessage: Listing changed files...
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
   connections: []
   primaryConnectionUsername: th3p1p4n
 --- !u!114 &13
@@ -1515,14 +2185,14 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 634
-    width: 1465
-    height: 373
+    x: 1920
+    y: 848
+    width: 1954.3334
+    height: 520.33344
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -1537,23 +2207,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/GitHub
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Plugins/GitHub
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\megan\Desktop\life\school\rit2\fall 2021\IGME-202 Int.
-    Med. Dev\Exercise1\Thin Air Balloon
+  m_LastProjectPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a24a0000
-    m_LastClickedID: 19106
-    m_ExpandedIDs: 000000000e3d0000
+    m_SelectedIDs: 0e3d0000
+    m_LastClickedID: 15630
+    m_ExpandedIDs: 000000000e3d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1608,7 +2277,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1625,7 +2294,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1653,14 +2322,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1466
-    y: 73
-    width: 453
-    height: 934
+    x: 3875.3335
+    y: 72.66667
+    width: 603.6666
+    height: 1295.6667
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -1690,21 +2359,21 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 362
-    height: 541
+    x: 1920
+    y: 72.66667
+    width: 482.33334
+    height: 754.3333
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff
+      m_SelectedIDs: d63d0000
+      m_LastClickedID: 15830
+      m_ExpandedIDs: d8c4fffffcc6ffff52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1720,7 +2389,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -1744,14 +2413,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 363
-    y: 73
-    width: 1101
-    height: 541
+    x: 2403.3333
+    y: 72.66667
+    width: 1470
+    height: 754.3333
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
@@ -1764,9 +2433,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -8.626747, y: 14.841785, z: -4.3424845}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -8.626747, y: 14.841785, z: -4.3424845}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1813,13 +2482,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.22111382, y: -0.5340496, z: 0.14712161, w: -0.8026644}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.21880434, y: -0.54027295, z: 0.14796442, w: -0.79895955}
   m_Size:
-    m_Target: 10
+    m_Target: 13.242994
     speed: 2
-    m_Value: 10
+    m_Value: 12.672722
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1860,7 +2529,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
@@ -1890,10 +2559,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -766
-    m_HBaseRangeMax: 766
-    m_VBaseRangeMin: -395
-    m_VBaseRangeMax: 395
+    m_HBaseRangeMin: -510.6667
+    m_HBaseRangeMax: 510.6667
+    m_VBaseRangeMin: -256.33334
+    m_VBaseRangeMax: 256.33334
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1910,11 +2579,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 1532
-      height: 790
+      height: 769
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 766, y: 395}
+    m_Translation: {x: 766, y: 384.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1922,12 +2591,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -766
-      y: -395
+      y: -384.5
       width: 1532
-      height: 790
+      height: 769
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1532, y: 790}
+  m_LastWindowPixelSize: {x: 2298, y: 1185}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1949,14 +2618,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 635
-    width: 1465
-    height: 372
+    x: 1920
+    y: 848
+    width: 1954.3334
+    height: 520.33344
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:
