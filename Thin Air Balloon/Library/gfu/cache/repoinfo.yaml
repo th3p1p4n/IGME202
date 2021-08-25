@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-25T10:17:56.019-04:00
-  initializedAtString: 2021-08-25T10:17:56.019-04:00
+  lastUpdatedAtString: 2021-08-25T10:41:35.998-04:00
+  initializedAtString: 2021-08-25T10:40:44.443-04:00
   currentGitRemote:
     name: origin
-    url: https://github.com/th3p1p4n/IGME202
+    url: https://github.com/th3p1p4n/IGME202.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: main
     remote:
       name: origin
-      url: https://github.com/th3p1p4n/IGME202
+      url: https://github.com/th3p1p4n/IGME202.git
     trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/th3p1p4n/IGME202
+    url: https://github.com/th3p1p4n/IGME202.git
   currentHead: 

@@ -13,13 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-08-25T10:12:32.069-04:00
-  initializedAtString: 2021-08-25T09:23:28.851-04:00
+  lastUpdatedAtString: 2021-08-25T10:41:43.288-04:00
+  initializedAtString: 2021-08-25T10:41:43.134-04:00
   localBranches: []
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/th3p1p4n/IGME202
+    url: https://github.com/th3p1p4n/IGME202.git
     login: 
     user: 
     host: 
@@ -32,12 +36,24 @@ MonoBehaviour:
     keys:
     - origin
     subKeys:
-    - Values: []
+    - Values:
+      - HEAD
+      - main
     subKeyValues:
-    - Values: []
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/th3p1p4n/IGME202.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/th3p1p4n/IGME202.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/th3p1p4n/IGME202
+      url: https://github.com/th3p1p4n/IGME202.git
