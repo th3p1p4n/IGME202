@@ -13,178 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-08-25T16:53:18.335-04:00
-  initializedAtString: 2021-08-25T16:29:58.086-04:00
+  lastUpdatedAtString: 2021-08-29T21:17:36.687-04:00
+  initializedAtString: 2021-08-29T19:56:57.946-04:00
   entries:
-  - path: Thin Air Balloon\Assets\Materials.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials.meta
-    projectPath: Assets\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\balloon mat.mat
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\balloon
-      mat.mat
-    projectPath: Assets\Materials\balloon mat.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\balloon mat.mat.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\balloon
-      mat.mat.meta
-    projectPath: Assets\Materials\balloon mat.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\gondola mat.mat
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\gondola
-      mat.mat
-    projectPath: Assets\Materials\gondola mat.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\gondola mat.mat.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\gondola
-      mat.mat.meta
-    projectPath: Assets\Materials\gondola mat.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\world mat.mat
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\world
-      mat.mat
-    projectPath: Assets\Materials\world mat.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Materials\world mat.mat.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Materials\world
-      mat.mat.meta
-    projectPath: Assets\Materials\world mat.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Models.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Models.meta
-    projectPath: Assets\Models.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Models\ThinAirBalloon.prefab
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Models\ThinAirBalloon.prefab
-    projectPath: Assets\Models\ThinAirBalloon.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Models\ThinAirBalloon.prefab.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Models\ThinAirBalloon.prefab.meta
-    projectPath: Assets\Models\ThinAirBalloon.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Scenes\BalloonScene.unity
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scenes\BalloonScene.unity
-    projectPath: Assets\Scenes\BalloonScene.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Scenes\BalloonScene.unity.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scenes\BalloonScene.unity.meta
-    projectPath: Assets\Scenes\BalloonScene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Scenes\SampleScene.unity
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Thin Air Balloon\Assets\Scenes\SampleScene.unity.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scenes\SampleScene.unity.meta
-    projectPath: Assets\Scenes\SampleScene.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Thin Air Balloon\Assets\Scripts.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures.meta
-    projectPath: Assets\Textures.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\circular foot prints.png
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\circular
-      foot prints.png
-    projectPath: Assets\Textures\circular foot prints.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\circular foot prints.png.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\circular
-      foot prints.png.meta
-    projectPath: Assets\Textures\circular foot prints.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\north african tiling pattern.png
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\north
-      african tiling pattern.png
-    projectPath: Assets\Textures\north african tiling pattern.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\north african tiling pattern.png.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\north
-      african tiling pattern.png.meta
-    projectPath: Assets\Textures\north african tiling pattern.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar coordinates.png
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      coordinates.png
-    projectPath: Assets\Textures\polar coordinates.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar coordinates.png.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      coordinates.png.meta
-    projectPath: Assets\Textures\polar coordinates.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar graph.png
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      graph.png
-    projectPath: Assets\Textures\polar graph.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar graph.png.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      graph.png.meta
-    projectPath: Assets\Textures\polar graph.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar view.png
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      view.png
-    projectPath: Assets\Textures\polar view.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Assets\Textures\polar view.png.meta
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Assets\Textures\polar
-      view.png.meta
-    projectPath: Assets\Textures\polar view.png.meta
+  - path: Thin Air Balloon\.vsconfig
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\.vsconfig
+    projectPath: .vsconfig
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -194,39 +28,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Thin Air Balloon\Library\Artifacts\00\00b3d3611f59290dcbcf5184f79f48b0
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\00\00b3d3611f59290dcbcf5184f79f48b0
-    projectPath: Library\Artifacts\00\00b3d3611f59290dcbcf5184f79f48b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\02\026414c994d00f66218702bebb8e1d35
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\02\026414c994d00f66218702bebb8e1d35
-    projectPath: Library\Artifacts\02\026414c994d00f66218702bebb8e1d35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\02\02a07421c442d31424dfd29bcd4d13a7
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\02\02a07421c442d31424dfd29bcd4d13a7
-    projectPath: Library\Artifacts\02\02a07421c442d31424dfd29bcd4d13a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\10\10c77c92386d44b8b6276730302f2ad3
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\10\10c77c92386d44b8b6276730302f2ad3
-    projectPath: Library\Artifacts\10\10c77c92386d44b8b6276730302f2ad3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\17\17a525621bbdee82558a9c16024f0338
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\17\17a525621bbdee82558a9c16024f0338
-    projectPath: Library\Artifacts\17\17a525621bbdee82558a9c16024f0338
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\20\204262d4828ce4befaee163f62ce9e1f
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\20\204262d4828ce4befaee163f62ce9e1f
-    projectPath: Library\Artifacts\20\204262d4828ce4befaee163f62ce9e1f
+  - path: Thin Air Balloon\Library\Artifacts\18\18ef1f50b0751f90c908190c8e298b0c
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\18\18ef1f50b0751f90c908190c8e298b0c
+    projectPath: Library\Artifacts\18\18ef1f50b0751f90c908190c8e298b0c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -234,173 +38,41 @@ MonoBehaviour:
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
     projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\2d\2d4dafe111665306bd8b4e3412c45e3e
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\2d\2d4dafe111665306bd8b4e3412c45e3e
-    projectPath: Library\Artifacts\2d\2d4dafe111665306bd8b4e3412c45e3e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\Artifacts\2c\2c0abf4384976e9c06b912fc460e6f3b
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\2c\2c0abf4384976e9c06b912fc460e6f3b
+    projectPath: Library\Artifacts\2c\2c0abf4384976e9c06b912fc460e6f3b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    projectPath: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
+  - path: Thin Air Balloon\Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
+    projectPath: Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\3a\3a410dec6aaaec61ee31215cc44fa300
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\3a\3a410dec6aaaec61ee31215cc44fa300
-    projectPath: Library\Artifacts\3a\3a410dec6aaaec61ee31215cc44fa300
+  - path: Thin Air Balloon\Library\Artifacts\4c\4c9807bec4e356d55ad23589e8d10f5d
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\4c\4c9807bec4e356d55ad23589e8d10f5d
+    projectPath: Library\Artifacts\4c\4c9807bec4e356d55ad23589e8d10f5d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\3c\3caad17675122d7e85a7031eac916485
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\3c\3caad17675122d7e85a7031eac916485
-    projectPath: Library\Artifacts\3c\3caad17675122d7e85a7031eac916485
+  - path: Thin Air Balloon\Library\Artifacts\4d\4d6614cf0a3d83b0969d6404dfd42261
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\4d\4d6614cf0a3d83b0969d6404dfd42261
+    projectPath: Library\Artifacts\4d\4d6614cf0a3d83b0969d6404dfd42261
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\46\4697eacb1bfa1663146eff8e18cc24b4
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\46\4697eacb1bfa1663146eff8e18cc24b4
-    projectPath: Library\Artifacts\46\4697eacb1bfa1663146eff8e18cc24b4
+  - path: Thin Air Balloon\Library\Artifacts\57\5719fc79e9ff0053218809dee32e0d02
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\57\5719fc79e9ff0053218809dee32e0d02
+    projectPath: Library\Artifacts\57\5719fc79e9ff0053218809dee32e0d02
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\4f\4f9e13eab9977d55d49f8fae5f05a504
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\4f\4f9e13eab9977d55d49f8fae5f05a504
-    projectPath: Library\Artifacts\4f\4f9e13eab9977d55d49f8fae5f05a504
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\52\525ecb36bf899b0a6475007ddf981279
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\52\525ecb36bf899b0a6475007ddf981279
-    projectPath: Library\Artifacts\52\525ecb36bf899b0a6475007ddf981279
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\52\52f04861b77f192e70fbce6f9093b09d
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\52\52f04861b77f192e70fbce6f9093b09d
-    projectPath: Library\Artifacts\52\52f04861b77f192e70fbce6f9093b09d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\5f\5fb8ffd71c47123e68b184db9d528e94
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\5f\5fb8ffd71c47123e68b184db9d528e94
-    projectPath: Library\Artifacts\5f\5fb8ffd71c47123e68b184db9d528e94
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\62\622a08dbde33104b182c0d3a1399286f
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\62\622a08dbde33104b182c0d3a1399286f
-    projectPath: Library\Artifacts\62\622a08dbde33104b182c0d3a1399286f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\63\63f7524bdb0082745ba6fd61cf3d4860
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\63\63f7524bdb0082745ba6fd61cf3d4860
-    projectPath: Library\Artifacts\63\63f7524bdb0082745ba6fd61cf3d4860
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\65\65b45d5722008cd9ae35c4f6a2cd830f
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\65\65b45d5722008cd9ae35c4f6a2cd830f
-    projectPath: Library\Artifacts\65\65b45d5722008cd9ae35c4f6a2cd830f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\68\6862b4e84309d7cd165ac83f84072dce
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\68\6862b4e84309d7cd165ac83f84072dce
-    projectPath: Library\Artifacts\68\6862b4e84309d7cd165ac83f84072dce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\6a\6af2b4e514f79517ba43c17eb6d7f63d
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\6a\6af2b4e514f79517ba43c17eb6d7f63d
-    projectPath: Library\Artifacts\6a\6af2b4e514f79517ba43c17eb6d7f63d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
-    projectPath: Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\75\75811642ef49452338712c60e2337f58
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\75\75811642ef49452338712c60e2337f58
-    projectPath: Library\Artifacts\75\75811642ef49452338712c60e2337f58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\75\759b88c7a80c4383b23ee09c7557cb1b
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\75\759b88c7a80c4383b23ee09c7557cb1b
-    projectPath: Library\Artifacts\75\759b88c7a80c4383b23ee09c7557cb1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\76\76f21f4cd386355f3ef0a829757b49d0
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\76\76f21f4cd386355f3ef0a829757b49d0
-    projectPath: Library\Artifacts\76\76f21f4cd386355f3ef0a829757b49d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\7a\7aba2a0c778747ebf944b79d59701106
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\7a\7aba2a0c778747ebf944b79d59701106
-    projectPath: Library\Artifacts\7a\7aba2a0c778747ebf944b79d59701106
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\84\84c1076f96cdc7af1ec4bbb9e77dcd4b
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\84\84c1076f96cdc7af1ec4bbb9e77dcd4b
-    projectPath: Library\Artifacts\84\84c1076f96cdc7af1ec4bbb9e77dcd4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\85\858ada1bb66ed3d1ae8ae0e2ac827fb1
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\85\858ada1bb66ed3d1ae8ae0e2ac827fb1
-    projectPath: Library\Artifacts\85\858ada1bb66ed3d1ae8ae0e2ac827fb1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\86\86903b6e1cb7dffd765097f3208f90a8
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\86\86903b6e1cb7dffd765097f3208f90a8
-    projectPath: Library\Artifacts\86\86903b6e1cb7dffd765097f3208f90a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\87\87677d9c7ee844da29d834322215e840
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\87\87677d9c7ee844da29d834322215e840
-    projectPath: Library\Artifacts\87\87677d9c7ee844da29d834322215e840
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\8f\8fca839f18521fa2f406ea248d9d5288
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\8f\8fca839f18521fa2f406ea248d9d5288
-    projectPath: Library\Artifacts\8f\8fca839f18521fa2f406ea248d9d5288
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\9b\9bea349f9b7114a7fc766346b572007a
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\9b\9bea349f9b7114a7fc766346b572007a
-    projectPath: Library\Artifacts\9b\9bea349f9b7114a7fc766346b572007a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\9d\9d5c95b80e6ba79660a5d83a5874f330
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\9d\9d5c95b80e6ba79660a5d83a5874f330
-    projectPath: Library\Artifacts\9d\9d5c95b80e6ba79660a5d83a5874f330
+  - path: Thin Air Balloon\Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
+    projectPath: Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -408,95 +80,47 @@ MonoBehaviour:
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\9e\9edcd8f13d1a9a2fc3c31aa57f14d1dd
     projectPath: Library\Artifacts\9e\9edcd8f13d1a9a2fc3c31aa57f14d1dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\ab\abdbe1a1df708069a8f88961f8514dbf
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\ab\abdbe1a1df708069a8f88961f8514dbf
-    projectPath: Library\Artifacts\ab\abdbe1a1df708069a8f88961f8514dbf
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
+    projectPath: Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\b1\b136ab0cede98b630e8a20d276363f3f
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b1\b136ab0cede98b630e8a20d276363f3f
-    projectPath: Library\Artifacts\b1\b136ab0cede98b630e8a20d276363f3f
+  - path: Thin Air Balloon\Library\Artifacts\b0\b0bcff630e5c45b29bb98223f439ec7e
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b0\b0bcff630e5c45b29bb98223f439ec7e
+    projectPath: Library\Artifacts\b0\b0bcff630e5c45b29bb98223f439ec7e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\b2\b2f7159cee5155d616a0a0d3cebf681d
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b2\b2f7159cee5155d616a0a0d3cebf681d
-    projectPath: Library\Artifacts\b2\b2f7159cee5155d616a0a0d3cebf681d
+  - path: Thin Air Balloon\Library\Artifacts\b4\b46bcef6d30c01ea798dbd0b0bb77ecb
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b4\b46bcef6d30c01ea798dbd0b0bb77ecb
+    projectPath: Library\Artifacts\b4\b46bcef6d30c01ea798dbd0b0bb77ecb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\b6\b60cea672d7ec8d0b7bd11a797bc5341
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b6\b60cea672d7ec8d0b7bd11a797bc5341
-    projectPath: Library\Artifacts\b6\b60cea672d7ec8d0b7bd11a797bc5341
+  - path: Thin Air Balloon\Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
+    projectPath: Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\b7\b7a98ef1149a830d65dd23ef822d429e
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\b7\b7a98ef1149a830d65dd23ef822d429e
-    projectPath: Library\Artifacts\b7\b7a98ef1149a830d65dd23ef822d429e
+  - path: Thin Air Balloon\Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
+    projectPath: Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\c5\c5ee220f66300e0b1696f9db68624277
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\c5\c5ee220f66300e0b1696f9db68624277
-    projectPath: Library\Artifacts\c5\c5ee220f66300e0b1696f9db68624277
+  - path: Thin Air Balloon\Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
+    projectPath: Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\ce\ce463188359da14960aeb12dd0020918
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\ce\ce463188359da14960aeb12dd0020918
-    projectPath: Library\Artifacts\ce\ce463188359da14960aeb12dd0020918
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\ce\ceb039ecb9db903d219a8f1f005c7a89
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\ce\ceb039ecb9db903d219a8f1f005c7a89
-    projectPath: Library\Artifacts\ce\ceb039ecb9db903d219a8f1f005c7a89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\d3\d347c12f45ea61ff04581a38dfe20af0
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d3\d347c12f45ea61ff04581a38dfe20af0
-    projectPath: Library\Artifacts\d3\d347c12f45ea61ff04581a38dfe20af0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\d4\d4e99b5ff6242cbe41bfbf107882b37a
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d4\d4e99b5ff6242cbe41bfbf107882b37a
-    projectPath: Library\Artifacts\d4\d4e99b5ff6242cbe41bfbf107882b37a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\d7\d79e7585c737ccd5302a5e9889bfb50e
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d7\d79e7585c737ccd5302a5e9889bfb50e
-    projectPath: Library\Artifacts\d7\d79e7585c737ccd5302a5e9889bfb50e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
-    projectPath: Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\d9\d9a02c46dd7d5a775cb2f3bd5ab17591
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\d9\d9a02c46dd7d5a775cb2f3bd5ab17591
-    projectPath: Library\Artifacts\d9\d9a02c46dd7d5a775cb2f3bd5ab17591
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    projectPath: Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\e5\e54b5e8c06b2906c1e547d48b1dbdf8c
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e5\e54b5e8c06b2906c1e547d48b1dbdf8c
-    projectPath: Library\Artifacts\e5\e54b5e8c06b2906c1e547d48b1dbdf8c
+  - path: Thin Air Balloon\Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
+    projectPath: Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -504,59 +128,17 @@ MonoBehaviour:
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e6\e6abafe25860d86f0f61da05d57024f2
     projectPath: Library\Artifacts\e6\e6abafe25860d86f0f61da05d57024f2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\e7\e712fb64323bdb1cc98c454616813976
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e7\e712fb64323bdb1cc98c454616813976
-    projectPath: Library\Artifacts\e7\e712fb64323bdb1cc98c454616813976
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
+    projectPath: Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\e7\e7320ca3f5f9f62c1e77b5da8e631f3a
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\e7\e7320ca3f5f9f62c1e77b5da8e631f3a
-    projectPath: Library\Artifacts\e7\e7320ca3f5f9f62c1e77b5da8e631f3a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\f0\f0dab804bb182fde1dcd008c6e629ada
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\f0\f0dab804bb182fde1dcd008c6e629ada
-    projectPath: Library\Artifacts\f0\f0dab804bb182fde1dcd008c6e629ada
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\f4\f4174695d30479dcaa8dc866dcbbeb7b
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\f4\f4174695d30479dcaa8dc866dcbbeb7b
-    projectPath: Library\Artifacts\f4\f4174695d30479dcaa8dc866dcbbeb7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\fb\fb7cf630016a9255fd4b9e8eb0325f9b
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\fb\fb7cf630016a9255fd4b9e8eb0325f9b
-    projectPath: Library\Artifacts\fb\fb7cf630016a9255fd4b9e8eb0325f9b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\fd\fd333b72a2c2e4fa083f97b6f9e05811
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\fd\fd333b72a2c2e4fa083f97b6f9e05811
-    projectPath: Library\Artifacts\fd\fd333b72a2c2e4fa083f97b6f9e05811
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\fd\fd83c3c12ca5c1236d48a1d83b0d5f6e
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\fd\fd83c3c12ca5c1236d48a1d83b0d5f6e
-    projectPath: Library\Artifacts\fd\fd83c3c12ca5c1236d48a1d83b0d5f6e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\fe\fea128dc0aeaa2bd7152619eb3d2c055
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\fe\fea128dc0aeaa2bd7152619eb3d2c055
-    projectPath: Library\Artifacts\fe\fea128dc0aeaa2bd7152619eb3d2c055
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\Artifacts\ff\ffae8cbd36d07cf1497905d69eaaded2
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\ff\ffae8cbd36d07cf1497905d69eaaded2
-    projectPath: Library\Artifacts\ff\ffae8cbd36d07cf1497905d69eaaded2
+  - path: Thin Air Balloon\Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
+    projectPath: Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -578,6 +160,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Thin Air Balloon\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -596,78 +184,1638 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\CONTRIBUTING.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Documentation~\README.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Documentation~\README.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Documentation~\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AssemblyInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\AsyncOperation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Cli.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\com.unity.ide.visualstudio.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Discovery.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\FileUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\KnownAssemblies.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Deserializer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\ExceptionEventArgs.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Message.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageEventArgs.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\MessageType.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Messenger.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\Serializer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\UdpSocket.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\.gitattributes
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\.gitattributes
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\.gitattributes
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionParser.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProjectEntry.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\SolutionProperties.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Symbols.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestResultAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerApiListener.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestRunnerCallbacks.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UnityInstallation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\UsageUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VersionPair.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioInstallation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VisualStudioIntegration.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\VSWhere\vswhere.exe.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\package.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ThirdPartyNotices.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationConfig.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.11\ValidationExceptions.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\CONTRIBUTING.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Documentation~\README.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Documentation~\README.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Documentation~\README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AssemblyInfo.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\AsyncOperation.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Cli.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\com.unity.ide.visualstudio.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\BStrHolder.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\CMakeLists.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\ComPtr.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\dte80a.tlh.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\COMIntegration~\release-build.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\COMIntegration\Release\COMIntegration.exe.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Discovery.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\FileUtility.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Image.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\KnownAssemblies.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Deserializer.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\ExceptionEventArgs.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Message.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageEventArgs.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\MessageType.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Messenger.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\Serializer.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpClient.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\TcpListener.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Messaging\UdpSocket.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\.gitattributes
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\.gitattributes
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\.gitattributes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Plugins\AppleEventIntegration.bundle\Contents\MacOS\AppleEventIntegration.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\AssemblyNameProvider.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\FileIOProvider.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\GUIDProvider.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGeneration.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\ProjectGeneration\ProjectGenerationFlag.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Solution.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionParser.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProjectEntry.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\SolutionProperties.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Symbols.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestResultAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerApiListener.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestRunnerCallbacks.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\Testing\TestStatusAdaptor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UnityInstallation.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\UsageUtility.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VersionPair.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioInstallation.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VisualStudioIntegration.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\Editor\VSWhere\vswhere.exe.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md.meta
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md.meta
+    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.9\ThirdPartyNotices.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Library\SceneVisibilityState.asset
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
-    projectPath: Library\ShaderCache\1\111a45af78e5002db525497ea3fc6e71.bin
+  - path: Thin Air Balloon\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
-    projectPath: Library\ShaderCache\1\1325b180c79bb778cc111a3cca33da9e.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
-    projectPath: Library\ShaderCache\2\26070892e7b48c6ee04221e4b769faf5.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\4\41c8e764a85db40f3dcd173ea8f293ca.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\4\41c8e764a85db40f3dcd173ea8f293ca.bin
-    projectPath: Library\ShaderCache\4\41c8e764a85db40f3dcd173ea8f293ca.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\7\74fc4a17ccd66c8dabb3dd8c613c56ad.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\7\74fc4a17ccd66c8dabb3dd8c613c56ad.bin
-    projectPath: Library\ShaderCache\7\74fc4a17ccd66c8dabb3dd8c613c56ad.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\8\8086efc93d72f4266af7667ad1b9d973.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\8\8086efc93d72f4266af7667ad1b9d973.bin
-    projectPath: Library\ShaderCache\8\8086efc93d72f4266af7667ad1b9d973.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\c\c37a68744ab76746b06d9a26efc85396.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\c\c37a68744ab76746b06d9a26efc85396.bin
-    projectPath: Library\ShaderCache\c\c37a68744ab76746b06d9a26efc85396.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
-    projectPath: Library\ShaderCache\d\d29bcfb16464f4ffc132e880ef033b27.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
-    projectPath: Library\ShaderCache\e\e7a8c54b0a5111a678c4a460d3dee15e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
-    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
-    projectPath: Library\ShaderCache\f\fa41ebb3f3166e154f0168f131f9bc74.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Thin Air Balloon\Library\SourceAssetDB
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -680,9 +1828,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Thin Air Balloon\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Logs\AssetImportWorker0.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -690,8 +1850,8 @@ MonoBehaviour:
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -702,41 +1862,83 @@ MonoBehaviour:
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Thin Air Balloon\Packages\manifest.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Packages\packages-lock.json
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Thin Air Balloon\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Temp\CompilationLog.txt
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Thin Air Balloon\Temp\UnityLockfile
     fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Temp\UnityTempFile-164cc2dfefa8c314f874f8b17768577b
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\UnityTempFile-164cc2dfefa8c314f874f8b17768577b
+    projectPath: Temp\UnityTempFile-164cc2dfefa8c314f874f8b17768577b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Thin Air Balloon\Temp\UnityTempFile-396dc560d10af0e4ba27b8fda9ba3a98
+    fullPath: C:\Users\megan\Documents\GitHub\IGME202\Thin Air Balloon\Temp\UnityTempFile-396dc560d10af0e4ba27b8fda9ba3a98
+    projectPath: Temp\UnityTempFile-396dc560d10af0e4ba27b8fda9ba3a98
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
